@@ -1,6 +1,20 @@
 # FlashSheet
 Di chuyển tức thời qua lại các trang tính Excel nhanh chóng
 
+Add-in với chức năng di chuyển tức thời giữa các trang tính bằng cách rê chuột trên Thanh hiển thị tên trang tính, mà không cần phải thực hiện nhấn vào tên trang tính, giúp chuyển trang tính nhanh hơn, nếu như tệp Excel của bạn có rất nhiều trang tính, thì add-in sẽ thực hiện tốt chức năng của nó.
+
+### Các chức năng của Add-in:
+
+- Tự động chuyển trang tính khi rê chuột trên thanh hiển thị tên.
+- Tự động trở lại trang tính hiện hành trước đó.
+- Tự động kéo đến các trang sau hoặc trước khi có rất nhiều trang tính.
+
+
+(Hình ảnh mình họa thanh hiển thị tên trang tính)
+
+![image](https://github.com/SanbiVN/FlashSheet/assets/58664571/68089cd6-9c1a-4353-9cae-df4e64dbdbd2)
+
+​Để tự động kéo đến các trang sau hoặc trước khi có rất nhiều trang tính, rê chuột vào vùng tô màu cam.
 
 ### CÁC HÀM THỰC THI
 
@@ -8,6 +22,6 @@ Thực thi	| Hàm	 | Giá trị của tham số
 -------| --------- | -----------
 Mở |	=FlashSheet_On()	 |
 Tắt	| =FlashSheet_Off()	 |
-Tắt/Mở mờ dần	| =FlashSheet_Delay(50)	 | mili giây từ 20 đến 120	
+Độ trễ chuyển trang tính mặc định 30		| =FlashSheet_Delay(30)	 | mili giây từ 20 đến 120	
 Đặt lại mặc định	|=FlashSheet_Reset()	 |
 Đóng Add-in	| =FlashSheet_Quit()	|
