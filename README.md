@@ -2,6 +2,7 @@
 Di chuyển tức thời qua lại các trang tính Excel nhanh chóng
 
 [Nhấn tải FlashSheet v1.0](https://github.com/SanbiVN/FlashSheet/releases/download/FlashSheet/FlashSheet_v1.0.zip)
+[![Lượt tải](https://img.shields.io/github/downloads/SanbiVN/FlashSheet/total.svg)](https://github.com/SanbiVN/FlashSheet/releases/download/FlashSheet/FlashSheet_v1.0.zip) 
 
 Add-in với chức năng di chuyển tức thời giữa các trang tính bằng cách rê chuột trên Thanh hiển thị tên trang tính, mà không cần phải thực hiện nhấn vào tên trang tính, giúp chuyển trang tính nhanh hơn, nếu như tệp Excel của bạn có rất nhiều trang tính, thì add-in sẽ thực hiện tốt chức năng của nó.
 
