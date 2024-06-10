@@ -1,5 +1,5 @@
 # FlashSheet
-Di chuyển qua lại các trang tính Excel nhanh chống
+Di chuyển tức thời qua lại các trang tính Excel nhanh chóng
 
 
 ### CÁC HÀM THỰC THI
