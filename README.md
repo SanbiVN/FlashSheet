@@ -1,7 +1,7 @@
 # FlashSheet
 Di chuyển tức thời qua lại các trang tính Excel nhanh chóng
 
-[Nhấn tải FlashSheet v1.2](https://github.com/SanbiVN/FlashSheet/releases/download/FlashSheet/FlashSheet_v1.3.zip)
+[Nhấn tải FlashSheet](https://github.com/SanbiVN/FlashSheet/releases/download/FlashSheet/FlashSheet_v1.3.zip)
 [![Lượt tải](https://img.shields.io/github/downloads/SanbiVN/FlashSheet/total.svg)](https://github.com/SanbiVN/FlashSheet/releases/download/FlashSheet/FlashSheet_v1.3.zip) 
 Mật khẩu VBA là 1
 
